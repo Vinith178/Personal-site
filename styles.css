@@ -1,0 +1,38 @@
+body
+{
+  background-color:  #defcf9;
+}
+
+hr
+{
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+}
+
+h2
+{
+  color: #283c63;
+}
+h3
+{
+  color: #283c63;
+}
+h1
+{
+  color: #283c63;
+}
+h4
+{
+  color: #283c63;
+}
+h5
+{
+  color: #283c63;
+}
+h6
+{
+  color: #283c63;
+}
